@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7316
     wikipedia: http://en.wikipedia.org/wiki/Edward_J._Ruppelt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17346#The-Report-on-Unidentified-Flying-Objects
 gutenberg_issued: '2005-12-18'
 gutenberg_type: Text
 identifiers:
